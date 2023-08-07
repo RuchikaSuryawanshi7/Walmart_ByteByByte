@@ -16,6 +16,12 @@ Fraud Detection System" theme, harnessing machine learning, real-time data proce
 streamlined visualization for proactive fraud prevention, enhancing financial security and 
 transaction integrity.
 
+![Screenshot (6)](https://github.com/RuchikaSuryawanshi7/Walmart_ByteByByte/assets/81236452/813e6d60-7901-40c1-9c42-628d555801bc)
+
+
+![Screenshot (4)](https://github.com/RuchikaSuryawanshi7/Walmart_ByteByByte/assets/81236452/f377c0ba-fe67-4bab-801d-b3dfa2896822)
+
+
 ## Demo Video: 
-## [Link to Video](https://youtu.be/NBoCV01r5Is)
+Click to open video:  [Link to Video](https://youtu.be/NBoCV01r5Is)
 
