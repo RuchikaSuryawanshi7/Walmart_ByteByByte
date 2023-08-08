@@ -22,6 +22,6 @@ transaction integrity.
 ![Screenshot (4)](https://github.com/RuchikaSuryawanshi7/Walmart_ByteByByte/assets/81236452/f377c0ba-fe67-4bab-801d-b3dfa2896822)
 
 
-## Demo Video: 
-Click to open video:  [Link to Video](https://youtu.be/NBoCV01r5Is)
+## Project Screenshot: 
+![Screenshot (6)](https://github.com/RuchikaSuryawanshi7/Walmart_ByteByByte/assets/81236452/813e6d60-7901-40c1-9c42-628d555801bc)
 
